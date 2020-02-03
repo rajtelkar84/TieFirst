@@ -17,6 +17,7 @@ public class FirstTestNGProject {
 	  driver.get("https://www.facebook.com/");
 	  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	  System.out.println(driver.getTitle());
+	  System.out.println("hello");
 	  driver.close();
   }
 }
