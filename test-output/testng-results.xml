@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="24866" started-at="2020-01-16T16:08:19Z" finished-at="2020-01-16T16:08:44Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="24866" started-at="2020-01-16T16:08:19Z" finished-at="2020-01-16T16:08:44Z">
+      <class name="testNGMaven.SecondTestNGProject">
+        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.SecondTestNGProject@cc285f4]" name="test" duration-ms="10165" started-at="2020-01-16T16:08:33Z" finished-at="2020-01-16T16:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testNGMaven.SecondTestNGProject -->
+      <class name="testNGMaven.FirstTestNGProject">
+        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.FirstTestNGProject@6767c1fc]" name="test" duration-ms="14676" started-at="2020-01-16T16:08:19Z" finished-at="2020-01-16T16:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testNGMaven.FirstTestNGProject -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
