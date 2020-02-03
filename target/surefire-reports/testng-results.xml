@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="example suite 1" duration-ms="23031" started-at="2020-02-03T09:57:58Z" finished-at="2020-02-03T09:58:21Z">
+  <suite name="example suite 1" duration-ms="21905" started-at="2020-02-03T12:23:09Z" finished-at="2020-02-03T12:23:31Z">
     <groups>
     </groups>
-    <test name="Regression suite 1" duration-ms="23031" started-at="2020-02-03T09:57:58Z" finished-at="2020-02-03T09:58:21Z">
+    <test name="Regression suite 1" duration-ms="21905" started-at="2020-02-03T12:23:09Z" finished-at="2020-02-03T12:23:31Z">
       <class name="testNGMaven.SecondTestNGProject">
-        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.SecondTestNGProject@7e0babb1]" name="test" duration-ms="10051" started-at="2020-02-03T09:58:11Z" finished-at="2020-02-03T09:58:21Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.SecondTestNGProject@7e0babb1]" name="test" duration-ms="9853" started-at="2020-02-03T12:23:21Z" finished-at="2020-02-03T12:23:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- testNGMaven.SecondTestNGProject -->
       <class name="testNGMaven.FirstTestNGProject">
-        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.FirstTestNGProject@4cdbe50f]" name="test" duration-ms="12960" started-at="2020-02-03T09:57:58Z" finished-at="2020-02-03T09:58:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:testNGMaven.FirstTestNGProject@4cdbe50f]" name="test" duration-ms="12033" started-at="2020-02-03T12:23:09Z" finished-at="2020-02-03T12:23:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
